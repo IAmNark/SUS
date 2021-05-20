@@ -1,0 +1,17 @@
+answer = input("ingresa SUS: ")
+if answer == "SUS":	
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("        ඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞඞඞඞඞඞඞඞඞ")
+	print("ඞඞඞඞ    ඞඞඞඞ")
+	print("ඞඞඞඞ    ඞඞඞඞ")
+	print("\n AMONG US REFERENCE!!!  ඞ ")
+else:
+	print("no bro, dije ingresa SUS ")
